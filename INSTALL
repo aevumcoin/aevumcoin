@@ -1,0 +1,9 @@
+Building AevumCoin
+
+See doc/readme-qt.rst for instructions on building AevumCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AevumCoin.
+
+See doc/build-*.txt for instructions on building AevumCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AevumCoin.
